@@ -3,12 +3,19 @@ import { createRoot } from "react-dom/client";
 import { HashRouter } from "react-router-dom";
 import "./css/index.css";
 import App from "./App.jsx";
+import { HashRouter } from "react-router-dom";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <HashRouter>
       <App />
+<<<<<<< HEAD
     </HashRouter>
+=======
+
+    </HashRouter>
+
+>>>>>>> 6687180 (Add new files)
   </StrictMode>
 );
 
