@@ -9,13 +9,7 @@ createRoot(document.getElementById("root")).render(
   <StrictMode>
     <HashRouter>
       <App />
-<<<<<<< HEAD
     </HashRouter>
-=======
-
-    </HashRouter>
-
->>>>>>> 6687180 (Add new files)
   </StrictMode>
 );
 
